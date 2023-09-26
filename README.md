@@ -24,13 +24,12 @@ git clone https://github.com/tu-nombre-de-usuario/pruebas-numeros-complejos.git
 
 Los experimentos de la canicas con coeficiente booleanos
 
-### `rendija_clasic()`
+### `test_rendijas_clasic_y_cuantica`
 
-Experimentos de las múltiples rendijas clásico probabilístico, con más de dos rendijas.
+Experimentos de las múltiples rendijas clásico probabilístico, con más de dos rendijas y experimento de las múltiples rendijas cuántico.
 
-### `remdijas_cuantico()`
 
-Experimento de las múltiples rendijas cuántico.
+
 
 
 ### Licencia
